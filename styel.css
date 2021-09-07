@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(201, 201, 201);
+}
+
+.navbar-brand {
+  font-family: viga;
+  font-size: 28px;
+}
+
+h2 {
+  padding-top: 13rem;
+  font-family: viga;
+}
+
+footer {
+  background-color: rgb(61, 58, 58);
+}
+
+#pilihan {
+  padding-left: 90px;
+  padding-right: 90px;
+}
